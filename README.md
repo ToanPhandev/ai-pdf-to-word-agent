@@ -109,3 +109,10 @@ Insert standard Jinja2 tags (`{{ variable_name }}`) anywhere inside your Microso
 3. Click **"🚀 Run AI Extraction Pipeline"** in Step 2.
 4. Review or edit any field in the **Human-in-the-Loop** table/form.
 5. Click **"📥 Download Populated Word Document (.docx)"** in Step 3.
+
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/8f471ee0-a9da-416e-8309-0440f8a1a7e3" />
+
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/b1ce0efa-a112-4494-9d34-0a2f627f394c" />
+
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/8e1a619e-55de-418e-a463-e852274e9d36" />
+
